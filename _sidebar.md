@@ -6,3 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+  - [Resume](Ethan_Sodo_2571717.md)
+  - [Projects](myProjects.md)
